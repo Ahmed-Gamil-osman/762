@@ -13,4 +13,4 @@
 #       - run: docker build -t ahmedgamil/react-test -f Dockerfile.dev .
 #       - run: docker run -e CI=true ahmedgamil/react-test npm run test
 
-# commented to avoid running tests on every push to master
+# commented to avoid running tests on every push to master  teststsss
